@@ -8,3 +8,5 @@ Supongamos que tenemos ejecutando un servidor IIS con una aplicación ASP.NET MV
 Pero, ¿y si este concepto lo orientamos a la programación en la nube?  Aquí es cuando entra en juego la plataforma Azure y los Worker Roles.
 
 [Seguir leyendo](http://bit.ly/1cOuz69)
+
+<i><b><u>NOTA:</u></b> Se ha actualizado la solución para que utilice la versión 2.6 de Azure SDK.</i>
